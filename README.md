@@ -8,6 +8,8 @@ As a Senior Data Analyst for Maven Airlines, a fictional US-based airline headqu
 ## **Executive Summary**
 
 ## **Insights Deep-Dive**
-** 
+* **Likert Analysis:**
+  * The three services that passengers were most dissatisfied with were, in descending order : **Gate Location**, **Ease of Online Booking**, and **In-flight Wifi**
+  * 
 
 

@@ -8,6 +8,14 @@ As a Senior Data Analyst for Maven Airlines, a fictional US-based airline headqu
 ## **Executive Summary**
 
 ## **Insights Deep-Dive**
+* **High-level Analysis**
+  * The airline has an overall customer satisfaction rate of only **43%**.
+  * Over 129k passengers (49% Males, 50% Females) participated in the survey.
+  * **Business** is the most common class (48%), closely followed by **Economy** (45%).
+  * Most Passengers in the survey are in the **31-59** age group (59%).
+  * **Short-haul flights** (defined as under 1,500 miles) is the most frequently occuring flight distance group.
+  * The overwhelming majority of flights hvae **No Delay** (defined as being 15 minutes or less than the scheduled departure/arrival time).
+ 
 * **Likert Analysis:**
   * The three services that passengers were most dissatisfied with were, in descending order : **Gate Location**, **Ease of Online Booking**, and **In-flight Wifi**
   * 

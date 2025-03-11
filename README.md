@@ -26,6 +26,10 @@ This analysis provides a general overview of Maven Airlines' customer satisfacti
 ## **Recommendations** 
 Based on these findings, I would give the following recommendations to the releavnt departments:
 * **Improve in-flight Wifi by upgrading internet badwidth and speed, and transition airline fleet from air-to-ground to satellite**
+  * Implementation of upgrades in  in-flight Wifi can be costly, therefore, it needs to be reviewed by the airlines' finance department to assess its feasibility.
 * **Redesign the booking website that follows good user experience (UX) practices**
+  * The website should make it easy for passengers to pick their flights (including seating assignment), manage their loyalty programs, and cancel flights.
 * **Leverage Data Science and Artificial Intelligence (AI) to strategically assign gate locations**
+  * Can be based on factors such as passenger demand, aircraft type and size, and flight frequency.  
+
 
